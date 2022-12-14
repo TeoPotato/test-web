@@ -1,5 +1,6 @@
 <!DOCTYPE HTML>
   <head>
+  </head>
     <body style="background-color:powderblue;">
       <h2><b>Hello!</b></h2>
         <p align ="center"><b>Things I know and do:</b></p>
@@ -9,4 +10,3 @@
            </a>
         </p>
     </body>
-  </head>
