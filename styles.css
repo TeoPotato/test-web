@@ -1,0 +1,12 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: black;
+  font-family: 'gill sans', sans-serif;
+  font-size: 300%;
+}
+p {
+  color: black;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
